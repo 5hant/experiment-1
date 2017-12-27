@@ -1,6 +1,6 @@
  Breadth First Search [bfs] as I understand it
 
-Suppose a stadium section has seating arrangement as shown below. VIP sitting in the section calls stadium management sometime after leaving the stadium telling them he thinks he lost some valuable thing there. Management briefs the situation to janitor and asks him to search for the item.
+Suppose a stadium section has seating arrangement. VIP sitting in the section calls stadium management sometime after leaving the stadium telling them he thinks he lost some valuable thing there. Management briefs the situation to janitor and asks him to search for the item.
 
 What could be janitor's strategy to search for the lost item?
 He could start at the topmost row: searching in and around each chair: one after another.
