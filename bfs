@@ -1,0 +1,12 @@
+ Breadth First Search [bfs] as I understand it
+
+Suppose a stadium section has seating arrangement as shown below. VIP sitting in the section calls stadium management sometime after leaving the stadium telling them he thinks he lost some valuable thing there. Management briefs the situation to janitor and asks him to search for the item.
+
+What could be janitor's strategy to search for the lost item?
+He could start at the topmost row: searching in and around each chair: one after another.
+
+Suppose he doesn't find it anywhere in the topmost row, he would then repeat process for the row below it.
+
+If he is lucky he might find the item in this row. If not, he would repeat same process with the next row.
+
+This row-wise or breadth-wise searching mechanism is called breadth first search for obvious reasons: a complete row or breadth is searched before proceeding to next (if required).
